@@ -1,0 +1,15 @@
+/* Adrian's Grey Style */
+
+body#woothemes { background: #a8a8a8 url(hackerspace/bg.jpg) repeat-x center 0; }
+
+body#woothemes h1, 
+body#woothemes h2, 
+body#woothemes h3, 
+body#woothemes h4, 
+#footer #footerWrap #copy a,
+#sidebar a,
+ol.commentlist li p a
+{ color: #2c2c2c; }
+
+p.txt0, p.txt0 a, .continue
+{  color: #d30000;  }

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>HSG Links</ShortName>
+    <LongName>HackerspaceSG Linky Thing</LongName>
+    <Description>Share links with friends on @hsglinks over twitter!</Description>
+    <InputEncoding>UTF-8</InputEncoding>
+    <OutputEncoding>UTF-8</OutputEncoding>
+    <AdultContent>false</AdultContent>
+    <Language>en-us</Language>
+    <Developer>HackerspaceSG</Developer>
+    <Contact>contact@hackerspace.sg</Contact>
+    <Description>Paste a link here to share with other members of HackerspaceSG, or the world!</Description>
+    <Tags>hackerspace hackerspacesg</Tags>
+    <Attribution>Search data from David Walsh, http://davidwalsh.name/</Attribution>
+    <SyndicationRight>open</SyndicationRight>
+    <Query role="example" searchTerms="Apple"/>
+    <Image height="64" width="64" type="image/png">http://hackerspace.sg/images/favicon-64-juststar.png</Image>
+    <Url type="text/html" template="http://hackerspace.sg/linky/linked.php?url={searchTerms}"/>
+</OpenSearchDescription>
