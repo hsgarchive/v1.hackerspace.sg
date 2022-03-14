@@ -14,6 +14,6 @@
     <Attribution>Search data from David Walsh, http://davidwalsh.name/</Attribution>
     <SyndicationRight>open</SyndicationRight>
     <Query role="example" searchTerms="Apple"/>
-    <Image height="64" width="64" type="image/png">http://hackerspace.sg/images/favicon-64-juststar.png</Image>
-    <Url type="text/html" template="http://hackerspace.sg/linky/linked.php?url={searchTerms}"/>
+    <Image height="64" width="64" type="image/png">https://v1.hackerspace.sg/images/favicon-64-juststar.png</Image>
+    <Url type="text/html" template="https://v1.hackerspace.sg/linky/linked.php?url={searchTerms}"/>
 </OpenSearchDescription>

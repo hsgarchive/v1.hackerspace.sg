@@ -4,11 +4,11 @@
     <engineLink>http://wordpress.org/</engineLink>
     <homePageLink>http://hackerspace.sg</homePageLink>
     <apis>
-      <api name="WordPress" blogID="1" preferred="true" apiLink="http://hackerspace.sg/xmlrpc.php" />
-      <api name="Movable Type" blogID="1" preferred="false" apiLink="http://hackerspace.sg/xmlrpc.php" />
-      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://hackerspace.sg/xmlrpc.php" />
-      <api name="Blogger" blogID="1" preferred="false" apiLink="http://hackerspace.sg/xmlrpc.php" />
-      <api name="Atom" blogID="" preferred="false" apiLink="http://hackerspace.sg/wp-app.php/service" />
+      <api name="WordPress" blogID="1" preferred="true" apiLink="https://v1.hackerspace.sg/xmlrpc.php" />
+      <api name="Movable Type" blogID="1" preferred="false" apiLink="https://v1.hackerspace.sg/xmlrpc.php" />
+      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://v1.hackerspace.sg/xmlrpc.php" />
+      <api name="Blogger" blogID="1" preferred="false" apiLink="https://v1.hackerspace.sg/xmlrpc.php" />
+      <api name="Atom" blogID="" preferred="false" apiLink="https://v1.hackerspace.sg/wp-app.php/service" />
     </apis>
   </service>
 </rsd>
